@@ -23,10 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-App icon and styled launch screen, can log in, can view tweets, refresh and load infinitely
-<img src='http://g.recordit.co/bOJ7gDnQKZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Stays logged in across restarts and can log out
-<img src='http://g.recordit.co/sEukXloBym.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
+App icon and styled launch screen, can log in, can view tweets, refresh and load infinitely                                                |Stays logged in across restarts and can log out        
+:------------------------------------------------------------:|:---------------------------------------------------------:
+<img src='http://g.recordit.co/bOJ7gDnQKZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br> | <img src='http://g.recordit.co/sEukXloBym.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br> 
